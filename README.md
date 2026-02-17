@@ -40,6 +40,6 @@ Output (Live / Spoof)
 
 # RESULT
 <p align="center">
-  <img src="assets/images/result.png" width="400"/>
+  <img src="assets/images/Screenshot.png" width="400"/>
 </p>
 This can still be improved, as the model takes a little time to detect.
